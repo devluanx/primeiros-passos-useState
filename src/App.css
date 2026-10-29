@@ -1,0 +1,40 @@
+  
+.cartao {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 25px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #f4f7fb;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px #0002;
+}
+
+.cartao input {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 12px;
+  margin: 20px 0;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.cartao button {
+  margin: 5px;
+  padding: 10px 14px;
+  border: none;
+  border-radius: 6px;
+  background-color: #1565c0;
+  color: white;
+  cursor: pointer;
+}
+
+.cartao button:hover {
+  background-color: #0d47a1;
+}
+
+.cartao p {
+  color: #1565c0;
+  font-weight: bold;
+}
